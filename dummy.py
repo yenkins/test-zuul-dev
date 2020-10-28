@@ -42,6 +42,9 @@ class Cat(Mammal):
 class FiveLeggedCat(Cat):
     nlimbs = randrange(10)
 
+class FiveLeggedDog(Bitch):
+    nlimbs = randrange(10)
+
 class Cat(Animal):
     def __init__(self, talk='meow', num_legs=4):
         print 'Hay cat'
