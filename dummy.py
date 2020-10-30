@@ -42,7 +42,7 @@ class Cat(Mammal):
 class FiveLeggedCat(Cat):
     nlimbs = randrange(10)
 
-class FiveLeggedDog(Bitch):
+class FiveLeggedDog(Bitches):
     nlimbs = randrange(10)
 
 class Cat(Animal):
