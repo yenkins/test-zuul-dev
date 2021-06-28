@@ -1,3 +1,2 @@
 foobar1
-foobar2
-foobar3
+zoobar2
